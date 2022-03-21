@@ -11,3 +11,8 @@ cd Secrets
 ```
 python manage.py runserver
 ```
+
+### Resources used to learn 
+```
+https://www.youtube.com/watch?v=NG48CLLsb1A&t=596s
+```
